@@ -8,6 +8,6 @@ Download the aligned dataset from https://shapenet.cs.stanford.edu/media/modelne
 Put all traning h5 files under Prepdata folder, all testing h5 files under Prepdata_test folder, then run train_cls.py. Accuracy rate will be 82.5%, which is slightly lower than the original implementation. 
 
 # Segmentation:
-Download shapenet dataset from https://shapenet.cs.stanford.edu/ericyi/shapenetcore_partanno_v0.zip. 
+Download and unzip the shapenet dataset from https://shapenet.cs.stanford.edu/ericyi/shapenetcore_partanno_v0.zip. 
 Run Seg_dataprep.py then train_seg.py.
 
